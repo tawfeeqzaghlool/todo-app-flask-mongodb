@@ -6,18 +6,18 @@ h1 {
 body {
     color: black;
     background-color: white;
-    left-margin: 10px;
-    right-margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 table {
-    width: 95%;
+    width: 80%;
     border-collapse: collapse;
     table-layout: fixed;
 }
 
 td {
-    border: rgba(224, 119, 70, 1) 2px solid;
+    border: rgb(70, 137, 224) 2px solid;
     word-wrap: break-word;
 }
 
