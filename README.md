@@ -2,16 +2,21 @@
 This is a simple Flask app to create a todo list with MongoDB
 
 Instructions
-Download python from https://www.python.org/downloads/
+Download [python](https://www.python.org/downloads/)
 
-Download MongoDB from https://www.mongodb.com/download-center#community
+Download [MongoDB](https://www.mongodb.com/download-center#community)
 
 
-**create a virtual env
+## Create a virtual environment:
 
-run pythom3 -m ven venv
-activate env source ./venv/bin/activate
-run pip install -r requirements.txt
+- Run the following command to create the virtual environment:
+'python3 -m ven venv'\
+- Activate env 
+'source ./venv/bin/activate'
+
+## Install the requirements
+
+'pip install -r requirements.txt'
 
 
 Before running the mongodb instance, we must create a data folder and run below command in command prompt.
