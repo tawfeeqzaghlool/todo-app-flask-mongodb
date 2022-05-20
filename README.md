@@ -9,14 +9,14 @@ Download [MongoDB](https://www.mongodb.com/download-center#community)
 
 ## Create a virtual environment:
 
-- Run the following command to create the virtual environment:
-'python3 -m ven venv'\
+- Run the following command to create the virtual environment:\
+`python3 -m ven venv`
 - Activate env 
-'source ./venv/bin/activate'
+`source ./venv/bin/activate`
 
 ## Install the requirements
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 
 Before running the mongodb instance, we must create a data folder and run below command in command prompt.
@@ -30,6 +30,6 @@ By default, it is listening the port 27017.
 Download/Clone source code from Github
 Run app.py in Command prompt.
 
-python app.py
+`python app.py`
 
 Our local web server is running in the port 5000 by default.
