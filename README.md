@@ -10,7 +10,7 @@ Download [MongoDB](https://www.mongodb.com/download-center#community)
 ## Create a virtual environment:
 
 - Run the following command to create the virtual environment:\
-`python3 -m ven venv`
+`python3 -m venv venv`
 - Activate env\
 `source ./venv/bin/activate`
 
