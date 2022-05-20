@@ -11,13 +11,12 @@ Download [MongoDB](https://www.mongodb.com/download-center#community)
 
 - Run the following command to create the virtual environment:\
 `python3 -m ven venv`
-- Activate env 
+- Activate env\
 `source ./venv/bin/activate`
 
-## Install the requirements
+### Install the requirements
 
 `pip install -r requirements.txt`
-
 
 Before running the mongodb instance, we must create a data folder and run below command in command prompt.
 
